@@ -4,9 +4,8 @@ A polished iOS home-screen and lock-screen widget that shows your [Claude](https
 
 It reads the same usage data the Claude website shows, using your own logged-in session cookie. Nothing is sent anywhere except to `claude.ai`.
 
-<!-- Add a screenshot here once you have one:
 ![Widget preview](docs/preview.png)
--->
+
 
 ## Features
 
